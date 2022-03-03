@@ -1,4 +1,4 @@
-# About me
+# mari-alves
 
 👩🏼‍💻 Hi! My name is Mariana and I'm interested in web dev.
 
