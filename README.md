@@ -6,6 +6,5 @@
 
 :paintbrush: Now I'm refreshing and studying more about UX/UI because a final project is coming up and I want to be prepared.
 
-
-
+:briefcase: [LinkedIn](linkedin.com/in/mariana-alves-a75a94164)
 
